@@ -9,7 +9,7 @@ As you work through the "Connecting it all: Tracing Errors" checkpoint, you will
 The table below describes the files and folders in the starter code:
 
 | Folder/file path | Description                                                                      |
-| ---------------- | -------------------------------------------------------------------------------- | |
+| ---------------- | -------------------------------------------------------------------------------- |
 | `knexfile.js` | Knex configuration file.	|
 | `src/app.js` | Directs requests to the appropriate routers.  	||
 | `src/articles/articles.controller.js` | The controller for the articles resource	|
